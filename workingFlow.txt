@@ -1,0 +1,2 @@
+gonna use fuji to base testnet usdc
+first we need to transfer tokens from user to crosschain contract 
